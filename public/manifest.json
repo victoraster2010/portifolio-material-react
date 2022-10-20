@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "portifolio cadastros",
+  "name": "Demonstração de cadastros com TS,React e material UI",
   "icons": [
     {
       "src": "favicon.ico",
